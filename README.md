@@ -29,6 +29,7 @@
 ![Java](https://img.shields.io/badge/JDK-161616?style=for-the-badge&logo=openjdk&logoColor=EF3337)
 ![C++](https://img.shields.io/badge/c++-161616?style=for-the-badge&logo=c%2B%2B&logoColor=659BD3)
 ![React.js](https://img.shields.io/badge/react.js-161616?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161616?style=for-the-badge&logo=Bootstrap)
 
 
 <h2>Stats</h2>
