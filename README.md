@@ -15,6 +15,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-161616?style=for-the-badge&logo=visualstudiocode&logoColor=24ABF2)
 ![GIT](https://img.shields.io/badge/git-161616?style=for-the-badge&logo=git)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-161616?style=for-the-badge&logo=intellijidea)
+![VStudio](https://img.shields.io/badge/VStudio-161616?style=for-the-badge&logo=visualstudio&logoColor=A578DC)
 
 
 <h2>Knowledge</h2>
