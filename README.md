@@ -8,7 +8,6 @@
 
 [![Discord](https://img.shields.io/badge/discord-161616?style=for-the-badge&logo=discord)](http://discordapp.com/users/401363666601246720) 
 [![GitHub](https://img.shields.io/badge/github-161616?style=for-the-badge&logo=github)](https://github.com/DayleSacoto)
-[![Telegram](https://img.shields.io/badge/Telegram-161616?style=for-the-badge&logo=Telegram)](https://t.me/SacotoDayle) 
 
 <h2>Tools</h2>
 
